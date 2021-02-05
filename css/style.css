@@ -311,6 +311,10 @@ td img{
     width:35px;
 }
 
+input.books-input{
+    margin-top: .8rem;
+}
+
 /* ::: Modal ::: */
 .modal-overlay{
     width: 100%;
